@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "984352960062",
+    "firebase_url": "https://bird-38c7c.firebaseio.com",
+    "project_id": "bird-38c7c",
+    "storage_bucket": "bird-38c7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984352960062:android:8e846d13ada82903",
+        "android_client_info": {
+          "package_name": "com.minz.bird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984352960062-m68vjikl2i6nam8qtdbg1tffjp8e9cuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdboTn_6mvdxPqWNYP1N3MIML5gKJoLL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
